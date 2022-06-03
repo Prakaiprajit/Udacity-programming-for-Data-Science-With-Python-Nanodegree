@@ -1,6 +1,6 @@
 ## Udacity-programming-for-Data-Science-using-Python-Nanodegree
 __________________________________________________________________________________________________
-![](images/Data science.jpg)
+![Data science](https://github.com/Prakaiprajit/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Images/Data%20science.jpg)
 
 ### Created by Prakai Prajit
 __________________________________________________________________________________________________
@@ -27,14 +27,14 @@ In this project, I had to use Python to explore data related to bike share syste
 - Python 3, Numpy, and pandas installed using Anaconda
 - A text editor,like Sublime or Atom
 - A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
--
+
 #### Project Submission
 [My Project Submission](https://github.com/Prakaiprajit/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Project-2-Python/bikeshare.py)
 
 #### The interactive Experience
 This is a example that I wrote a script in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, you can see in the picture below that show the results of the information in New york city for all months on Friday.
-![](images/Interactive experience (1).jpg)
-![](images/Interactive experience (2).jpg)
+![Interactive experience 1](https://github.com/Prakaiprajit/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Images/Interactive%20experience%20(1).jpg)
+![Interactive experience 2](https://github.com/Prakaiprajit/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Images/Interactive%20experience%20(2).jpg)
 
 #### Files Used
 The required files for running this program are:
@@ -46,5 +46,5 @@ The required files for running this program are:
 ### My Certificate of Completion
 ____
 
-![](images/Certificate.jpg)
+![Udacity Certificate](https://github.com/Prakaiprajit/Udacity-programming-for-Data-Science-With-Python-Nanodegree/blob/master/Images/Udacity%20Certificate.jpg)
 
